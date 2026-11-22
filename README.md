@@ -18,6 +18,14 @@ Usable hosts: 254
 ```
 
 ```powershell
+iport 255.255.255.252
+
+CIDR:         /30
+Subnet mask:  255.255.255.252
+Wildcard:     0.0.0.3
+```
+
+```powershell
 iport 179
 
 Port:    179
